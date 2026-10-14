@@ -6,7 +6,13 @@ PhotoAssistant is an experimental Android application designed to help users cap
 > **Scope:** PhotoAssistant assists with image acquisition. It does not perform 3D reconstruction on the phone, and passing its checks does not guarantee a successful reconstruction.
 
 <p align="center">
-  <img src="docs/images/photoassistant-icon.jpg" alt="PhotoAssistant app icon" width="180">
+  <img src="docs/images/photoassistant-icon.png.jpg" alt="PhotoAssistant app icon" width="180" />
+</p>
+
+<h1 align="center">PhotoAssistant</h1>
+
+<p align="center">
+  An Android assistant for guided photogrammetry image acquisition.
 </p>
 
 ## Table of Contents
